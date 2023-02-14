@@ -14,7 +14,7 @@ dotenv.config();
 
 //The configurations
 const configuration = new Configuration({
-    apiKey: "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",
+    apiKey: "sk-Your key here",
 });
 
 //create an instance of openai
